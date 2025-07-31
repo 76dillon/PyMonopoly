@@ -1,17 +1,29 @@
 import random
 import time
+import ascii_magic
 
 from config import AVAILABLE_PLAYERS, NUM_SPACES
 from player import Player
 from board import Board
 from properties import Properties
 from print_board import print_board
-from dice import roll_dice
+from turn import normal_turn, jail_turn
 
-available_players = ["Dog", "Ship", "Tophat", "Car"]
+
+def check_victory_conditions(players):
+    not_bankrupt = len(players)
+    for player in players:
+        if player.bankrupt == True:
+            not_bankrupt -= 1
+        else:
+            cur_player = player.name
+    if not_bankrupt == 1:
+        return cur_player
 
 def main():
-    print("Welcome to PyMonopoly!")
+    ascii_output = ascii_magic.from_image("./images/monopoly_logo.png")
+    ascii_output.to_terminal(columns=100)
+    print("\n======================= Welcome to PyMonopoly! =======================")
 
     #Configure number of players
     while True:
@@ -21,66 +33,56 @@ def main():
                 print(f"Nunber of players: {num_players}")
                 break
             else:
-                print("Invalid input. Number must be between 2 and 4.")
+                print("INVALID INPUT. Number must be between 2 and 4.")
         except ValueError:
-            print("Invalid input. Please enter an integer betweeb 2 and 4.")
+            print("INVALID INPUT. Please enter an integer betweeb 2 and 4.")
     
     #Configure player names and initialize player objects for each
     players = []
     for i in range(0, num_players):
+        print("\n======================= Available Player Names =======================")
         for j in range(0, len(AVAILABLE_PLAYERS)):
             print(f"{j+1}. {AVAILABLE_PLAYERS[j]}")
+        print("======================================================================")
         while True:
             try:
-                player_id = int(input(f"Choose number between 1 - {len(AVAILABLE_PLAYERS)}: "))
+                player_id = int(input(f"Player {i+1}, choose number between 1 - {len(AVAILABLE_PLAYERS)}: "))
                 if 1 <= player_id <= len(AVAILABLE_PLAYERS):
                     player = Player(AVAILABLE_PLAYERS[player_id-1])
                     players.append(player)
                     AVAILABLE_PLAYERS.remove(AVAILABLE_PLAYERS[player_id-1])
                     break
                 else:
-                    print(f"Invalid input. Please choose number between 1 - {len(AVAILABLE_PLAYERS)}:")
+                    print(f"INVALID INPUT. Please choose number between 1 - {len(AVAILABLE_PLAYERS)}.")
             except ValueError:
-                print(f"Invalid input. Please choose number between 1 - {len(AVAILABLE_PLAYERS)}:")
+                print(f"INVALID INPUT. Please choose number between 1 - {len(AVAILABLE_PLAYERS)}.")
 
     random.shuffle(players) #Shuffle list of players to determine random order
-    print(players)
     board = Board()
     spaces = board.spaces
     properties = Properties()
-    print_board(spaces, players, properties)
+    #print_board(spaces, players, properties)
 
     #Main game loop
     try:
-        while True: 
+        while True:
             for player in players:
-                turn = input(f"It is {player.name}'s turn. Press Enter to roll dice: ")
-                double_cnt = 0
-                #Loop that breaks when no doubles or when 3 doubles
-                while True:
-                    (dice1, dice2) = roll_dice()
-                    dice_total = dice1 + dice2
-                    print(f"{player.name} rolled a {dice1} and {dice2} for a total of {dice_total}")
-                    #Update player position
-                    player.move_player(dice_total)
-                    #Check if doubles were rolled
-                    if dice1 == dice2:
-                        double_cnt += 1
-                        if double_cnt < 3:
-                            print_board(spaces, players, properties)
-                            turn = input(f"{player.name} rolled doubles. Press enter to roll again: ")
-                        else:
-                            print(f"{player.name} rolled a {dice1} and {dice2} for a total of {dice_total}")
-                            print(f"{player.name} is in jail for rolling doubles three times in a row.")
-                            player.position = 10 #Space ID of 10 is jail
-                            print_board(spaces, players, properties)
-                            break
+                #Check victory conditions at the start of each player's turn.
+                winner = check_victory_conditions(players)
+                if winner != None:
+                    break
+
+                #If player is not bankrupt, their turn proceeds, otherwise, skip them.
+                if player.bankrupt == False:
+                    if player.jail == False:
+                        (players, properties) = normal_turn(player, players, spaces, properties)
                     else:
-                        print_board(spaces, players, properties)
-                        break
+                        (players, properties) = jail_turn(player, players, spaces, properties)
+            if winner != None:
+                break
+        print(f"Congratulations {winner}! You've won the game.")
     except KeyboardInterrupt:
         print("\nExiting Game!")
-
 
 
 if __name__ == "__main__":

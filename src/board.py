@@ -3,168 +3,167 @@ class Board():
     #Initialize dictionary of board spaces. Board spaces have the following attributes:
         #id - unique numerical identifier
         #property - boolean value indicating if the space is associated with a property
-        #Type - description of space type
-        #players - list of players currently at the space
+
     def __init__(self):
         self.spaces = {
-            "Go": {
-                "id": 0,
+            0: {
+                "name": "Go",
                 "property": False,
             },
-            "Mediterranean Ave": {
-                "id": 1,
+            1: {
+                "name": "Mediterranean Ave",
                 "property": True,
             },
-            "Community Chest 1": {
-                "id": 2,
+            2: {
+                "name": "Community Chest 1",
                 "property": False,
             },
-            "Baltic Ave": {
-                "id": 3,
+            3: {
+                "name": "Baltic Ave",
                 "property": True,
             },
-            "Income Tax": {
-                "id": 4,
+            4: {
+                "name": "Income Tax",
                 "property": False,
             },
-            "Reading Railroad": {
-                "id": 5,
+            5: {
+                "name": "Reading Railroad",
                 "property": True,
             },
-            "Oriental Ave": {
-                "id": 6,
+            6: {
+                "name": "Oriental Ave",
                 "property": True,
             },
-            "Chance 1": {
-                "id": 7,
+            7: {
+                "name": "Chance 1",
                 "property": False,
             },
-            "Vermont Ave": {
-                "id": 8,
+            8: {
+                "name": "Vermont Ave",
                 "property": True,
             },
-            "Connecticut Ave": {
-                "id": 9,
+            9: {
+                "name": "Connecticut Ave",
                 "property": True,
             },
-            "Jail": {
-                "id": 10,
+            10: {
+                "name": "Jail",
                 "property": False,
             },
-            "St Charles Pl": {
-                "id": 11,
+            11: {
+                "name": "St Charles Pl",
                 "property": True,
             },
-            "Electric Co": {
-                "id": 12,
+            12: {
+                "name": "Electric Co",
                 "property": True,
             },
-            "States Ave": {
-                "id": 13,
+            13: {
+                "name": "States Ave",
                 "property": True,
             },
-            "Virginia Ave": {
-                "id": 14,
+            14: {
+                "name": "Virginia Ave",
                 "property": True,
             },
-            "Penn Railroad": {
-                "id": 15,
+            15: {
+                "name": "Penn Railroad",
                 "property": True,
             },
-            "St James Pl": {
-                "id": 16,
+            16: {
+                "name": "St James Pl",
                 "property": True,
             },
-            "Community Chest 2": {
-                "id": 17,
+            17: {
+                "name": "Community Chest 2",
                 "property": False,
             },
-            "Tennessee Ave": {
-                "id": 18,
+            18: {
+                "name": "Tennessee Ave",
                 "property": True,
             },
-            "New York Ave": {
-                "id": 19,
+            19: {
+                "name": "New York Ave",
                 "property": True,
             },
-            "Free Parking": {
-                "id": 20,
+            20: {
+                "name": "Free Parking",
                 "property": False,
             },
-            "Kentucky Ave": {
-                "id": 21,
+            21: {
+                "name": "Kentucky Ave",
                 "property": True,
             },
-            "Chance 2": {
-                "id": 22,
+            22: {
+                "name": "Chance 2",
                 "property": False,
             },
-            "Indiana Ave": {
-                "id": 23,
+            23: {
+                "name": "Indiana Ave",
                 "property": True,
             },
-            "Illinois Ave": {
-                "id": 24,
+            24: {
+                "name": "Illinois Ave",
                 "property": True,
             },
-            "B&O Railroad": {
-                "id": 25,
+            25: {
+                "name": "B&O Railroad",
                 "property": True,
             },
-            "Atlantic Ave": {
-                "id": 26,
+            26: {
+                "name": "Atlantic Ave",
                 "property": True,
             },
-            "Ventnor Ave": {
-                "id": 27,
+            27: {
+                "name": "Ventnor Ave",
                 "property": True,
             },
-            "Water Works": {
-                "id": 28,
+            28: {
+                "name": "Water Works",
                 "property": True,
             },
-            "Marvin Gardens": {
-                "id": 29,
+            29: {
+                "name": "Marvin Gardens",
                 "property": True,
             },
-            "Go To Jail": {
-                "id": 30,
+            30: {
+                "name": "Go To Jail",
                 "property": False,
             },
-            "Pacific Ave": {
-                "id": 31,
+            31: {
+                "name": "Pacific Ave",
                 "property": True,
             },
-            "N Carolina Ave": {
-                "id": 32,
+            32: {
+                "name": "N Carolina Ave",
                 "property": True,
             },
-            "Community Chest 3": {
-                "id": 33,
+            33: {
+                "name": "Community Chest 3",
                 "property": False,
             },
-            "Penn Ave": {
-                "id": 34,
+            34: {
+                "name": "Penn Ave",
                 "property": True,
             },
-            "Short Line Railroad": {
-                "id": 35,
+            35: {
+                "name": "Short Line Railroad",
                 "property": True,
             },
-            "Chance 3": {
-                "id": 36,
+            36: {
+                "name": "Chance 3",
                 "property": False,
             },
-            "Park Pl": {
-                "id": 37,
+            37: {
+                "name": "Park Pl",
                 "property": True,
             },
-            "Luxury Tax": {
-                "id": 38,
+            38: {
+                "name": "Luxury Tax",
                 "property": False,
             },
-            "Boardwalk": {
-                "id": 39,
+            39: {
+                "name": "Boardwalk",
                 "property": True,
             },
         }
