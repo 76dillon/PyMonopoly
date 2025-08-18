@@ -428,10 +428,9 @@ class Properties():
         }
 
         self.chance_card_order = list(range(1, 17))
-        self.cc_card_order = [9]
-        #self.cc_card_order = list(range(1, 17))
+        self.cc_card_order = list(range(1, 17))
         random.shuffle(self.chance_card_order)
-        #random.shuffle(self.cc_card_order)
+        random.shuffle(self.cc_card_order)
 
 #Computes the rent for a player landing on someone else's property.
 def compute_rent(property_name, properties, dice_val):

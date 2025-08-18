@@ -459,8 +459,8 @@ class Player():
             for prop in self.owned:
                 eligible = check_bulldoze_eligibility(prop, properties)
                 build_cost = properties.names[prop]["build_cost"]
-                house_val = build_cost // 2
                 if (eligible == True):
+                    house_val = build_cost // 2
                     num_houses = properties.names[prop]["num_houses"]
                     num_hotels = properties.names[prop]["num_hotels"]
                     print(f"{num_options}. {prop} (Return Value: ${house_val}, Houses: {num_houses}, Hotels: {num_hotels})")
