@@ -1,0 +1,192 @@
+{
+  "chance": [
+    {
+      "id": "chance_01",
+      "description": "Advance to Go (Collect $200)",
+      "action": "advance_to_space",
+      "target": "Go"
+    },
+    {
+      "id": "chance_02",
+      "description": "Advance to Illinois Avenue. If you pass Go, collect $200",
+      "action": "advance_to_space",
+      "target": "Illinois Avenue"
+    },
+    {
+      "id": "chance_03",
+      "description": "Advance to St. Charles Place. If you pass Go, collect $200",
+      "action": "advance_to_space",
+      "target": "St. Charles Place"
+    },
+    {
+      "id": "chance_04",
+      "description": "Advance token to nearest Utility. If unowned, you may buy it from the Bank. If owned, throw dice and pay owner a total ten times the amount thrown.",
+      "action": "advance_nearest",
+      "target_type": "utility",
+      "rent_multiplier": 10
+    },
+    {
+      "id": "chance_05",
+      "description": "Advance to the nearest Railroad. If unowned, you may buy it from the Bank. If owned, pay owner twice the rental to which they are otherwise entitled.",
+      "action": "advance_nearest",
+      "target_type": "railroad",
+      "rent_multiplier": 2
+    },
+    {
+      "id": "chance_06",
+      "description": "Bank pays you dividend of $50",
+      "action": "receive_from_bank",
+      "amount": 50
+    },
+    {
+      "id": "chance_07",
+      "description": "Get Out of Jail Free. This card may be kept until needed.",
+      "action": "get_out_of_jail_free"
+    },
+    {
+      "id": "chance_08",
+      "description": "Go Back 3 Spaces",
+      "action": "move_relative",
+      "spaces": -3
+    },
+    {
+      "id": "chance_09",
+      "description": "Go to Jail. Go directly to Jail, do not pass Go, do not collect $200",
+      "action": "go_to_jail"
+    },
+    {
+      "id": "chance_10",
+      "description": "Make general repairs on all your property. For each house pay $25, for each hotel pay $100",
+      "action": "property_repairs",
+      "house_cost": 25,
+      "hotel_cost": 100
+    },
+    {
+      "id": "chance_11",
+      "description": "Speeding fine $15",
+      "action": "pay_bank",
+      "amount": 15
+    },
+    {
+      "id": "chance_12",
+      "description": "Take a trip to Reading Railroad. If you pass Go, collect $200",
+      "action": "advance_to_space",
+      "target": "Reading Railroad"
+    },
+    {
+      "id": "chance_13",
+      "description": "You have been elected Chairman of the Board. Pay each player $50",
+      "action": "pay_players",
+      "amount": 50
+    },
+    {
+      "id": "chance_14",
+      "description": "Your building loan matures. Collect $150",
+      "action": "receive_from_bank",
+      "amount": 150
+    },
+    {
+      "id": "chance_15",
+      "description": "Advance to Boardwalk",
+      "action": "advance_to_space",
+      "target": "Boardwalk"
+    }
+  ],
+  "community_chest": [
+    {
+      "id": "cc_01",
+      "description": "Advance to Go (Collect $200)",
+      "action": "advance_to_space",
+      "target": "Go"
+    },
+    {
+      "id": "cc_02",
+      "description": "Bank error in your favor. Collect $200",
+      "action": "receive_from_bank",
+      "amount": 200
+    },
+    {
+      "id": "cc_03",
+      "description": "Doctor's fee. Pay $50",
+      "action": "pay_bank",
+      "amount": 50
+    },
+    {
+      "id": "cc_04",
+      "description": "From sale of stock you get $50",
+      "action": "receive_from_bank",
+      "amount": 50
+    },
+    {
+      "id": "cc_05",
+      "description": "Get Out of Jail Free. This card may be kept until needed.",
+      "action": "get_out_of_jail_free"
+    },
+    {
+      "id": "cc_06",
+      "description": "Go to Jail. Go directly to jail, do not pass Go, do not collect $200",
+      "action": "go_to_jail"
+    },
+    {
+      "id": "cc_07",
+      "description": "Holiday fund matures. Receive $100",
+      "action": "receive_from_bank",
+      "amount": 100
+    },
+    {
+      "id": "cc_08",
+      "description": "Income tax refund. Collect $20",
+      "action": "receive_from_bank",
+      "amount": 20
+    },
+    {
+      "id": "cc_09",
+      "description": "It is your birthday. Collect $10 from every player",
+      "action": "collect_from_players",
+      "amount": 10
+    },
+    {
+      "id": "cc_10",
+      "description": "Life insurance matures. Collect $100",
+      "action": "receive_from_bank",
+      "amount": 100
+    },
+    {
+      "id": "cc_11",
+      "description": "Pay hospital fees of $100",
+      "action": "pay_bank",
+      "amount": 100
+    },
+    {
+      "id": "cc_12",
+      "description": "Pay school fees of $50",
+      "action": "pay_bank",
+      "amount": 50
+    },
+    {
+      "id": "cc_13",
+      "description": "Receive $25 consultancy fee",
+      "action": "receive_from_bank",
+      "amount": 25
+    },
+    {
+      "id": "cc_14",
+      "description": "You are assessed for street repair. $40 per house, $115 per hotel",
+      "action": "property_repairs",
+      "house_cost": 40,
+      "hotel_cost": 115
+    },
+    {
+      "id": "cc_15",
+      "description": "You have won second prize in a beauty contest. Collect $10",
+      "action": "receive_from_bank",
+      "amount": 10
+    },
+    {
+      "id": "cc_16",
+      "description": "You inherit $100",
+      "action": "receive_from_bank",
+      "amount": 100
+    }
+  ]
+}
