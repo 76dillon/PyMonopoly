@@ -1,65 +1,90 @@
-# PyMonopoly
+# Terminal Monopoly (V2)
 
-## Background
+A fully decoupled, network-ready Python implementation of the classic board game Monopoly.
 
-This is my CLI implementation of the popular Parker Brothers economic themed multiplayer board game. [Wikipedia Link](https://en.wikipedia.org/wiki/Monopoly_(game)).
+## 🚀 Overview
 
-## Usage
+Version 2 represents a complete architectural overhaul of the original script. The core objective was to separate the game's mathematical rules (the "Engine") from the user interface (the "UI"). 
 
-To execute this program, create a virtual environment as follows at the :
+This decoupled design ensures that the game state is purely data-driven, mathematically sound, and easily serializable, paving the way for future integrations like client-server multiplayer (V3) or a 3D graphical frontend.
 
-Clone the repository:
+## 🏗️ Architecture
 
-```bash
-git clone https://github.com/76dillon/PyMonopoly
-```
+The project is divided into distinct, isolated layers:
 
-Create a virtual environment in at the root directory.
+*   **Data Layer (`src-v2/data/`):** All static game information (board layout, property prices, card logic) is stored in JSON format. The game logic relies entirely on these files, making it incredibly easy to create custom boards or tweak rent values without touching Python code.
+*   **Math Layer (`src-v2/mechanics.py`):** Pure, stateless functions that handle the complex Monopoly math (e.g., dynamic rent calculation based on dice rolls and monopolies, repair costs).
+*   **State Managers (`src-v2/board.py`, `src-v2/properties.py`, `src-v2/cards.py`):** Classes that ingest the JSON data and manage the dynamic, mid-game state (e.g., who owns what, how many houses are built, deck shuffling).
+*   **The Engine (`src-v2/game.py`):** The central orchestrator. It enforces the rules, moves players, and handles atomic transactions. **It contains zero UI prompts (`print` or `input`).**
+*   **The UI (`src-v2/ui.py`):** A "dumb" terminal interface. It simply displays the engine's state, asks the user for decisions, and passes those decisions back to the engine.
 
-```bash
-python3 -m venv venv
-```
+## 🎮 How to Play
 
-To activate the virtual environment
-
-```bash
-source venv/bin/activate
-```
-
-Download the following dependency:
+Run the main entry script from the root directory:
 
 ```bash
-pip install ascii-magic
+python src-v2/main.py
 ```
-## How to play
 
-From the root path run the following command
+*   Supports 2 to 8 players.
+
+*   Features a dynamic, responsive command-line menu.
+
+*   Includes a fully featured Trading System allowing players to negotiate complex, multi-asset deals.
+
+*   **Auto-Save:** The game automatically saves after every turn. You can safely `Quit Game` from the menu or press `Ctrl+C`, and your progress will be restored the next time you boot up.
+
+## 🛠️ Developer Tools
+
+This project includes a dedicated suite of tools for debugging and game balance analysis, safely isolated from the production code.
+
+### The Developer Console (`main-dev.py`)
+
+Run the developer entry point:
 
 ```bash
-./main.sh
+python src-v2/dev-tools/main-dev.py
 ```
 
-You'll then be prompted the enter the number of players. Up to 4 players supported at this time. Then each player will pick their corresponding icon. Dog, Ship, Tophat, Ship.
+This loads a `DebugGame` engine which unlocks "God Mode" (`[G]`) in the turn menu. Developers can use this to:
 
-Each player turn consists of rolling the dice at the start. When the player lands on the corresponding space, the associated space event will occur: Chance, Community Chest, Landing on a Property, or going to jail. After the associated space event, the player will have the option to build/bulldoze houses and hotels on eligible properties, morthage/unmortgage properties, and view the current player information and owned properties. 
+*   Teleport players to specific spaces.
 
-## Debug Mode
+*   Instantly claim properties or full monopolies (with or without max hotels).
 
-In the folder ./config.py, modify the following line
+*   Arbitrarily adjust player bank balances.
+
+*   Force bankruptcies.
+
+### The Simulation Engine (`simulate.py`)
+
+A headless bot runner designed to stress-test the game logic and economy.
 
 ```bash
-DEBUG_MODE = TRUE
+python src-v2/dev-tools/simulate.py
+
 ```
 
-This enables the player to manually select the values on the dice in a given turn.
+This script will instantly play a full game of Monopoly using basic AI bots. It generates two files in the `src-v2/logs/` directory:
 
-## Upcoming Features
+1. `simulation_log.txt`: A chronological, turn-by-turn history of every action taken in the game.
 
-Features to be added in future versions:
+2. `simulation_snapshot.json`: A complete JSON dump of the board and player states at the moment the game ended (useful for debugging stalemates or crashes).
 
-- Trade with other players
-- GUI
-- Players can use multiple devices for a single game session
+## 🧪 Testing
 
+The core engine is backed by a robust suite of unit tests, verifying everything from rent calculations to complex bankruptcy asset transfers.
 
+To run the test suite:
 
+```bash
+python -m unittest discover -s src-v2/unit-tests
+```
+
+## 🗺️ Roadmap (V3)
+
+The decoupled nature of V2 was specifically designed to support the following upgrades:
+
+*   Multiplayer Server: Converting `game.py` into a headless server (e.g., using FastAPI or WebSockets) that broadcasts the state snapshot to remote clients.
+
+*   Graphical Interface: Replacing the `TerminalUI` with a web-based frontend or a 3D engine (like Unity/Godot) that reads the JSON state and animates the board accordingly.

@@ -1,0 +1,556 @@
+[Turn 0] Simulation started.
+[Turn 0] Bot_1 landed on Income Tax.
+[Turn 1] Bot_2 landed on Reading Railroad.
+[Turn 1] ✅ Bot_2 bought Reading Railroad for $200.
+[Turn 2] Bot_3 landed on Oriental Avenue.
+[Turn 2] ✅ Bot_3 bought Oriental Avenue for $100.
+[Turn 3] Bot_4 landed on Reading Railroad.
+[Turn 4] Bot_1 landed on States Avenue.
+[Turn 4] ✅ Bot_1 bought States Avenue for $140.
+[Turn 5] Bot_2 landed on Jail / Just Visiting.
+[Turn 6] Bot_3 landed on States Avenue.
+[Turn 7] Bot_4 landed on Virginia Avenue.
+[Turn 7] ✅ Bot_4 bought Virginia Avenue for $160.
+[Turn 8] Bot_1 landed on B. & O. Railroad.
+[Turn 8] ✅ Bot_1 bought B. & O. Railroad for $200.
+[Turn 8] 🎲 Bot_1 rolled doubles! Taking another turn.
+[Turn 8] Bot_1 landed on Luxury Tax.
+[Turn 8] 🎲 Bot_1 rolled doubles! Taking another turn.
+[Turn 8] Bot_1 landed on Community Chest.
+[Turn 8] 🃏 Bot_1 drew a card: Life insurance matures. Collect $100
+[Turn 9] Bot_2 landed on Pennsylvania Railroad.
+[Turn 9] ✅ Bot_2 bought Pennsylvania Railroad for $200.
+[Turn 10] Bot_3 landed on Kentucky Avenue.
+[Turn 10] ✅ Bot_3 bought Kentucky Avenue for $220.
+[Turn 11] Bot_4 landed on New York Avenue.
+[Turn 11] ✅ Bot_4 bought New York Avenue for $200.
+[Turn 12] Bot_1 landed on Vermont Avenue.
+[Turn 12] ✅ Bot_1 bought Vermont Avenue for $100.
+[Turn 12] 🎲 Bot_1 rolled doubles! Taking another turn.
+[Turn 12] Bot_1 landed on Pennsylvania Railroad.
+[Turn 13] Bot_2 landed on B. & O. Railroad.
+[Turn 14] Bot_3 landed on Atlantic Avenue.
+[Turn 14] ✅ Bot_3 bought Atlantic Avenue for $260.
+[Turn 15] Bot_4 landed on Go To Jail.
+[Turn 16] Bot_1 landed on Indiana Avenue.
+[Turn 16] ✅ Bot_1 bought Indiana Avenue for $220.
+[Turn 17] Bot_2 landed on Marvin Gardens.
+[Turn 17] ✅ Bot_2 bought Marvin Gardens for $280.
+[Turn 18] Bot_3 landed on Luxury Tax.
+[Turn 19] 🎲 Bot_4 is in jail and failed to roll doubles (3, 2).
+[Turn 20] Bot_1 landed on Ventnor Avenue.
+[Turn 20] ✅ Bot_1 bought Ventnor Avenue for $260.
+[Turn 21] Bot_2 landed on Park Place.
+[Turn 21] ✅ Bot_2 bought Park Place for $350.
+[Turn 22] Bot_3 landed on Community Chest.
+[Turn 22] 🃏 Bot_3 drew a card: Get Out of Jail Free. This card may be kept until needed.
+[Turn 23] 🎲 Bot_4 is in jail and failed to roll doubles (4, 2).
+[Turn 24] Bot_1 landed on Short Line.
+[Turn 24] ✅ Bot_1 bought Short Line for $200.
+[Turn 25] Bot_2 landed on Baltic Avenue.
+[Turn 25] ✅ Bot_2 bought Baltic Avenue for $60.
+[Turn 26] Bot_3 landed on Connecticut Avenue.
+[Turn 26] ✅ Bot_3 bought Connecticut Avenue for $120.
+[Turn 27] 💰 Bot_4 paid $50 mandatory bail and is out of jail.
+[Turn 27] Bot_4 landed on Kentucky Avenue.
+[Turn 28] Bot_1 landed on Mediterranean Avenue.
+[Turn 28] ✅ Bot_1 bought Mediterranean Avenue for $60.
+[Turn 29] 🤝 TRADE: Bot_2 bought Mediterranean Avenue from Bot_1 for $150 to complete a Monopoly!
+[Turn 29] Bot_2 landed on Jail / Just Visiting.
+[Turn 30] 🤝 TRADE: Bot_3 bought Vermont Avenue from Bot_1 for $250 to complete a Monopoly!
+[Turn 30] ✅ Built a House on Oriental Avenue for $50.
+[Turn 30] ✅ Built a House on Vermont Avenue for $50.
+[Turn 30] ✅ Built a House on Connecticut Avenue for $50.
+[Turn 30] Bot_3 landed on Tennessee Avenue.
+[Turn 30] ✅ Bot_3 bought Tennessee Avenue for $180.
+[Turn 31] Bot_4 landed on Atlantic Avenue.
+[Turn 32] Bot_1 landed on Reading Railroad.
+[Turn 33] ✅ Built a House on Mediterranean Avenue for $50.
+[Turn 33] Bot_2 landed on Free Parking.
+[Turn 33] 🎲 Bot_2 rolled doubles! Taking another turn.
+[Turn 33] Bot_2 landed on Go To Jail.
+[Turn 34] Bot_3 landed on Free Parking.
+[Turn 34] 🎲 Bot_3 rolled doubles! Taking another turn.
+[Turn 34] Bot_3 landed on Pacific Avenue.
+[Turn 34] 🔄 Bot_3 declined Pacific Avenue. (Auction Skipped for Simplicity)
+[Turn 35] Bot_4 landed on Community Chest.
+[Turn 35] 🃏 Bot_4 drew a card: Advance to Go (Collect $200)
+[Turn 36] Bot_1 landed on St. Charles Place.
+[Turn 36] ✅ Bot_1 bought St. Charles Place for $140.
+[Turn 36] 🎲 Bot_1 rolled doubles! Taking another turn.
+[Turn 36] Bot_1 landed on Free Parking.
+[Turn 37] 🎲 Bot_2 is in jail and failed to roll doubles (5, 6).
+[Turn 38] Bot_3 landed on Community Chest.
+[Turn 38] 🃏 Bot_3 drew a card: You have won second prize in a beauty contest. Collect $10
+[Turn 39] Bot_4 landed on Chance.
+[Turn 39] 🃏 Bot_4 drew a card: Advance to the nearest Railroad. If unowned, you may buy it from the Bank. If owned, pay owner twice the rental to which they are otherwise entitled.
+[Turn 40] 🤝 TRADE: Bot_1 bought Virginia Avenue from Bot_4 for $400 to complete a Monopoly!
+[Turn 40] Bot_1 landed on Atlantic Avenue.
+[Turn 41] 🎲 Bot_2 rolled doubles (5, 5) to escape jail!
+[Turn 41] Bot_2 landed on Free Parking.
+[Turn 42] ✅ Built a House on Oriental Avenue for $50.
+[Turn 42] Bot_3 landed on Jail / Just Visiting.
+[Turn 43] Bot_4 landed on St. James Place.
+[Turn 43] ✅ Bot_4 bought St. James Place for $180.
+[Turn 44] Bot_1 landed on North Carolina Avenue.
+[Turn 44] 🔄 Bot_1 declined North Carolina Avenue. (Auction Skipped for Simplicity)
+[Turn 45] Bot_2 landed on Marvin Gardens.
+[Turn 46] Bot_3 landed on Tennessee Avenue.
+[Turn 47] 🤝 TRADE: Bot_4 bought Tennessee Avenue from Bot_3 for $450 to complete a Monopoly!
+[Turn 47] ✅ Built a House on St. James Place for $100.
+[Turn 47] ✅ Built a House on Tennessee Avenue for $100.
+[Turn 47] ✅ Built a House on New York Avenue for $100.
+[Turn 47] ✅ Built a House on New York Avenue for $100.
+[Turn 47] Bot_4 landed on Kentucky Avenue.
+[Turn 48] Bot_1 landed on Community Chest.
+[Turn 48] 🃏 Bot_1 drew a card: Go to Jail. Go directly to jail, do not pass Go, do not collect $200
+[Turn 49] Bot_2 landed on Short Line.
+[Turn 49] 🎲 Bot_2 rolled doubles! Taking another turn.
+[Turn 49] Bot_2 landed on Boardwalk.
+[Turn 49] 🔄 Bot_2 declined Boardwalk. (Auction Skipped for Simplicity)
+[Turn 50] ✅ Built a House on Vermont Avenue for $50.
+[Turn 50] ✅ Built a House on Connecticut Avenue for $50.
+[Turn 50] ✅ Built a House on Connecticut Avenue for $50.
+[Turn 50] Bot_3 landed on Illinois Avenue.
+[Turn 50] ✅ Bot_3 bought Illinois Avenue for $240.
+[Turn 50] 🎲 Bot_3 rolled doubles! Taking another turn.
+[Turn 50] Bot_3 landed on Community Chest.
+[Turn 50] 🃏 Bot_3 drew a card: Doctor's fee. Pay $50
+[Turn 51] Bot_4 landed on North Carolina Avenue.
+[Turn 51] ✅ Bot_4 bought North Carolina Avenue for $300.
+[Turn 52] 🎲 Bot_1 is in jail and failed to roll doubles (1, 4).
+[Turn 53] Bot_2 landed on Chance.
+[Turn 53] 🃏 Bot_2 drew a card: Bank pays you dividend of $50
+[Turn 54] 🤝 TRADE: Bot_3 bought Indiana Avenue from Bot_1 for $550 to complete a Monopoly!
+[Turn 54] Bot_3 landed on Mediterranean Avenue.
+[Turn 55] Bot_4 landed on Luxury Tax.
+[Turn 56] ✅ Built a House on St. Charles Place for $100.
+[Turn 56] ✅ Built a House on States Avenue for $100.
+[Turn 56] ✅ Built a House on Virginia Avenue for $100.
+[Turn 56] ✅ Built a House on Virginia Avenue for $100.
+[Turn 56] 🎲 Bot_1 is in jail and failed to roll doubles (2, 4).
+[Turn 57] ✅ Built a House on Baltic Avenue for $50.
+[Turn 57] ✅ Built a House on Baltic Avenue for $50.
+[Turn 57] Bot_2 landed on Pennsylvania Railroad.
+[Turn 58] Bot_3 landed on Income Tax.
+[Turn 59] Bot_4 landed on Community Chest.
+[Turn 59] 🃏 Bot_4 drew a card: Receive $25 consultancy fee
+[Turn 60] ✅ Built a House on St. Charles Place for $100.
+[Turn 60] 💰 Bot_1 paid $50 mandatory bail and is out of jail.
+[Turn 60] Bot_1 landed on Free Parking.
+[Turn 61] ✅ Built a House on Mediterranean Avenue for $50.
+[Turn 61] ✅ Built a House on Mediterranean Avenue for $50.
+[Turn 61] Bot_2 landed on Illinois Avenue.
+[Turn 62] Bot_3 landed on Jail / Just Visiting.
+[Turn 63] Bot_4 landed on Reading Railroad.
+[Turn 64] Bot_1 landed on B. & O. Railroad.
+[Turn 65] Bot_2 landed on Water Works.
+[Turn 65] ✅ Bot_2 bought Water Works for $150.
+[Turn 65] 🎲 Bot_2 rolled doubles! Taking another turn.
+[Turn 65] Bot_2 landed on Pennsylvania Avenue.
+[Turn 65] 🔄 Bot_2 declined Pennsylvania Avenue. (Auction Skipped for Simplicity)
+[Turn 66] Bot_3 landed on Tennessee Avenue.
+[Turn 66] 🚨 Bot_3 is in debt for $70!
+[Turn 66] 🏚️ Bot_3 ✅ Sold a House on Connecticut Avenue for $25.
+[Turn 66] 🏚️ Bot_3 ✅ Sold a House on Oriental Avenue for $25.
+[Turn 66] Bot_3 paid $70.
+[Turn 67] Bot_4 landed on Pennsylvania Railroad.
+[Turn 68] Bot_1 landed on North Carolina Avenue.
+[Turn 69] Bot_2 landed on Reading Railroad.
+[Turn 70] Bot_3 landed on Ventnor Avenue.
+[Turn 70] 🚨 Bot_3 is in debt for $22!
+[Turn 70] 🏚️ Bot_3 ✅ Sold a House on Vermont Avenue for $25.
+[Turn 70] Bot_3 paid $22.
+[Turn 71] Bot_4 landed on Chance.
+[Turn 71] 🃏 Bot_4 drew a card: You have been elected Chairman of the Board. Pay each player $50
+[Turn 72] Bot_1 landed on Baltic Avenue.
+[Turn 73] ✅ Built a House on Baltic Avenue for $50.
+[Turn 73] ✅ Built a House on Baltic Avenue for $50.
+[Turn 73] Bot_2 landed on Connecticut Avenue.
+[Turn 74] Bot_3 landed on Community Chest.
+[Turn 74] 🃏 Bot_3 drew a card: Pay school fees of $50
+[Turn 75] Bot_4 landed on Ventnor Avenue.
+[Turn 76] ✅ Built a House on States Avenue for $100.
+[Turn 76] ✅ Built a House on States Avenue for $100.
+[Turn 76] Bot_1 landed on Jail / Just Visiting.
+[Turn 77] Bot_2 landed on Electric Company.
+[Turn 77] ✅ Bot_2 bought Electric Company for $150.
+[Turn 78] Bot_3 landed on Chance.
+[Turn 78] 🃏 Bot_3 drew a card: Advance to Illinois Avenue. If you pass Go, collect $200
+[Turn 79] Bot_4 landed on Chance.
+[Turn 79] 🃏 Bot_4 drew a card: Take a trip to Reading Railroad. If you pass Go, collect $200
+[Turn 80] Bot_1 landed on New York Avenue.
+[Turn 81] Bot_2 landed on Community Chest.
+[Turn 81] 🃏 Bot_2 drew a card: It is your birthday. Collect $10 from every player
+[Turn 82] Bot_3 landed on Community Chest.
+[Turn 82] 🃏 Bot_3 drew a card: You are assessed for street repair. $40 per house, $115 per hotel
+[Turn 83] Bot_4 landed on States Avenue.
+[Turn 84] ✅ Built a House on St. Charles Place for $100.
+[Turn 84] ✅ Built a House on Virginia Avenue for $100.
+[Turn 84] Bot_1 landed on Ventnor Avenue.
+[Turn 85] Bot_2 landed on Chance.
+[Turn 85] 🃏 Bot_2 drew a card: Go to Jail. Go directly to Jail, do not pass Go, do not collect $200
+[Turn 86] Bot_3 landed on Go.
+[Turn 87] Bot_4 landed on Tennessee Avenue.
+[Turn 88] Bot_1 landed on Park Place.
+[Turn 89] 🎲 Bot_2 is in jail and failed to roll doubles (2, 3).
+[Turn 90] Bot_3 landed on Chance.
+[Turn 90] 🃏 Bot_3 drew a card: Advance to Boardwalk
+[Turn 90] 🔄 Bot_3 declined Boardwalk. (Auction Skipped for Simplicity)
+[Turn 91] Bot_4 landed on Kentucky Avenue.
+[Turn 92] Bot_1 landed on Vermont Avenue.
+[Turn 93] 🎲 Bot_2 is in jail and failed to roll doubles (5, 3).
+[Turn 94] Bot_3 landed on Connecticut Avenue.
+[Turn 95] Bot_4 landed on Illinois Avenue.
+[Turn 96] ✅ Built a House on St. Charles Place for $100.
+[Turn 96] ✅ Built a House on States Avenue for $100.
+[Turn 96] Bot_1 landed on Electric Company.
+[Turn 97] 💰 Bot_2 paid $50 mandatory bail and is out of jail.
+[Turn 97] Bot_2 landed on Pennsylvania Railroad.
+[Turn 98] ✅ Built a House on Oriental Avenue for $50.
+[Turn 98] ✅ Built a House on Vermont Avenue for $50.
+[Turn 98] ✅ Built a House on Vermont Avenue for $50.
+[Turn 98] Bot_3 landed on Kentucky Avenue.
+[Turn 98] 🎲 Bot_3 rolled doubles! Taking another turn.
+[Turn 98] Bot_3 landed on Atlantic Avenue.
+[Turn 99] Bot_4 landed on Pacific Avenue.
+[Turn 99] 🔄 Bot_4 declined Pacific Avenue. (Auction Skipped for Simplicity)
+[Turn 100] Bot_1 landed on Chance.
+[Turn 100] 🃏 Bot_1 drew a card: Speeding fine $15
+[Turn 101] Bot_2 landed on Free Parking.
+[Turn 102] Bot_3 landed on North Carolina Avenue.
+[Turn 103] Bot_4 landed on Park Place.
+[Turn 104] Bot_1 landed on Illinois Avenue.
+[Turn 104] 🎲 Bot_1 rolled doubles! Taking another turn.
+[Turn 104] Bot_1 landed on Pacific Avenue.
+[Turn 104] ✅ Bot_1 bought Pacific Avenue for $300.
+[Turn 105] Bot_2 landed on B. & O. Railroad.
+[Turn 106] Bot_3 landed on Baltic Avenue.
+[Turn 107] Bot_4 landed on Reading Railroad.
+[Turn 108] Bot_1 landed on Boardwalk.
+[Turn 108] 🔄 Bot_1 declined Boardwalk. (Auction Skipped for Simplicity)
+[Turn 109] ✅ Built a House on Mediterranean Avenue for $50.
+[Turn 109] ✅ Built a Hotel on Mediterranean Avenue for $50.
+[Turn 109] ✅ Built a Hotel on Baltic Avenue for $50.
+[Turn 109] Bot_2 landed on Marvin Gardens.
+[Turn 110] Bot_3 landed on Electric Company.
+[Turn 111] Bot_4 landed on Electric Company.
+[Turn 112] Bot_1 landed on Community Chest.
+[Turn 112] 🃏 Bot_1 drew a card: Bank error in your favor. Collect $200
+[Turn 113] Bot_2 landed on Luxury Tax.
+[Turn 114] Bot_3 landed on Tennessee Avenue.
+[Turn 115] Bot_4 landed on Pennsylvania Railroad.
+[Turn 116] Bot_1 landed on Chance.
+[Turn 116] 🃏 Bot_1 drew a card: Go Back 3 Spaces
+[Turn 117] Bot_2 landed on Community Chest.
+[Turn 117] 🃏 Bot_2 drew a card: Pay hospital fees of $100
+[Turn 118] Bot_3 landed on Atlantic Avenue.
+[Turn 119] Bot_4 landed on New York Avenue.
+[Turn 120] Bot_1 landed on Chance.
+[Turn 120] 🃏 Bot_1 drew a card: Your building loan matures. Collect $150
+[Turn 121] Bot_2 landed on Connecticut Avenue.
+[Turn 122] Bot_3 landed on Go To Jail.
+[Turn 122] 🎲 Bot_3 rolled doubles! Taking another turn.
+[Turn 122] 🎲 Bot_3 is in jail and failed to roll doubles (4, 5).
+[Turn 123] Bot_4 landed on Ventnor Avenue.
+[Turn 124] Bot_1 landed on Tennessee Avenue.
+[Turn 125] Bot_2 landed on Virginia Avenue.
+[Turn 126] 🎲 Bot_3 is in jail and failed to roll doubles (5, 3).
+[Turn 127] Bot_4 landed on Luxury Tax.
+[Turn 128] ✅ Built a House on Virginia Avenue for $100.
+[Turn 128] ✅ Built a Hotel on Virginia Avenue for $100.
+[Turn 128] Bot_1 landed on Indiana Avenue.
+[Turn 129] Bot_2 landed on Indiana Avenue.
+[Turn 130] 🎲 Bot_3 rolled doubles (3, 3) to escape jail!
+[Turn 130] Bot_3 landed on St. James Place.
+[Turn 131] Bot_4 landed on Chance.
+[Turn 131] 🃏 Bot_4 drew a card: Advance to Go (Collect $200)
+[Turn 131] 🎲 Bot_4 rolled doubles! Taking another turn.
+[Turn 131] Bot_4 landed on Income Tax.
+[Turn 131] 🎲 Bot_4 rolled doubles! Taking another turn.
+[Turn 131] Bot_4 landed on States Avenue.
+[Turn 131] 🚨 Bot_4 is in debt for $625!
+[Turn 131] 🏚️ Bot_4 ✅ Sold a House on New York Avenue for $50.
+[Turn 131] 🏚️ Bot_4 ✅ Sold a House on St. James Place for $50.
+[Turn 131] 🏚️ Bot_4 ✅ Sold a House on Tennessee Avenue for $50.
+[Turn 131] 🏚️ Bot_4 ✅ Sold a House on New York Avenue for $50.
+[Turn 131] 🏦 Bot_4 mortgaged St. James Place to raise funds.
+[Turn 131] Bot_4 paid $625.
+[Turn 132] ✅ Built a Hotel on St. Charles Place for $100.
+[Turn 132] ✅ Built a Hotel on States Avenue for $100.
+[Turn 132] Bot_1 landed on Pacific Avenue.
+[Turn 133] Bot_2 landed on Go To Jail.
+[Turn 134] Bot_3 landed on Indiana Avenue.
+[Turn 135] Bot_4 landed on Indiana Avenue.
+[Turn 135] 🚨 Bot_4 is in debt for $36!
+[Turn 135] 🏦 Bot_4 mortgaged Tennessee Avenue to raise funds.
+[Turn 135] Bot_4 paid $36.
+[Turn 135] 🎲 Bot_4 rolled doubles! Taking another turn.
+[Turn 135] Bot_4 landed on Pacific Avenue.
+[Turn 135] 🎲 Bot_4 rolled doubles! Taking another turn.
+[Turn 135] Bot_4 landed on Park Place.
+[Turn 136] Bot_1 landed on Mediterranean Avenue.
+[Turn 136] 🎲 Bot_1 rolled doubles! Taking another turn.
+[Turn 136] Bot_1 landed on Oriental Avenue.
+[Turn 137] 🎲 Bot_2 rolled doubles (5, 5) to escape jail!
+[Turn 137] Bot_2 landed on Free Parking.
+[Turn 138] Bot_3 landed on Ventnor Avenue.
+[Turn 138] 🎲 Bot_3 rolled doubles! Taking another turn.
+[Turn 138] Bot_3 landed on Community Chest.
+[Turn 138] 🃏 Bot_3 drew a card: You inherit $100
+[Turn 139] Bot_4 landed on Oriental Avenue.
+[Turn 140] Bot_1 landed on Electric Company.
+[Turn 141] Bot_2 landed on Marvin Gardens.
+[Turn 142] ✅ Built a House on Oriental Avenue for $50.
+[Turn 142] ✅ Built a House on Connecticut Avenue for $50.
+[Turn 142] Bot_3 landed on Park Place.
+[Turn 143] Bot_4 landed on Electric Company.
+[Turn 143] 🎲 Bot_4 rolled doubles! Taking another turn.
+[Turn 143] Bot_4 landed on Kentucky Avenue.
+[Turn 144] Bot_1 landed on St. James Place.
+[Turn 145] Bot_2 landed on Chance.
+[Turn 145] 🃏 Bot_2 drew a card: Advance to St. Charles Place. If you pass Go, collect $200
+[Turn 146] Bot_3 landed on Baltic Avenue.
+[Turn 147] Bot_4 landed on Atlantic Avenue.
+[Turn 148] Bot_1 landed on Chance.
+[Turn 148] 🃏 Bot_1 drew a card: Get Out of Jail Free. This card may be kept until needed.
+[Turn 149] Bot_2 landed on Tennessee Avenue.
+[Turn 150] Bot_3 landed on Vermont Avenue.
+[Turn 151] Bot_4 landed on Chance.
+[Turn 151] 🃏 Bot_4 drew a card: Advance token to nearest Utility. If unowned, you may buy it from the Bank. If owned, throw dice and pay owner a total ten times the amount thrown.
+[Turn 152] Bot_1 landed on Community Chest.
+[Turn 152] 🃏 Bot_1 drew a card: Income tax refund. Collect $20
+[Turn 153] Bot_2 landed on B. & O. Railroad.
+[Turn 154] Bot_3 landed on Pennsylvania Railroad.
+[Turn 155] Bot_4 landed on Income Tax.
+[Turn 155] 🎲 Bot_4 rolled doubles! Taking another turn.
+[Turn 155] Bot_4 landed on States Avenue.
+[Turn 155] 💥 💥 Bot_4 went bankrupt to Bot_1! Buildings liquidated and assets transferred.
+[Turn 156] Bot_1 landed on Mediterranean Avenue.
+[Turn 156] 🎲 Bot_1 rolled doubles! Taking another turn.
+[Turn 156] Bot_1 landed on Connecticut Avenue.
+[Turn 157] Bot_2 landed on North Carolina Avenue.
+[Turn 158] ✅ Built a House on Oriental Avenue for $50.
+[Turn 158] Bot_3 landed on Tennessee Avenue.
+[Turn 159] Bot_1 landed on Free Parking.
+[Turn 160] Bot_2 landed on Go.
+[Turn 161] Bot_3 landed on Water Works.
+[Turn 161] 🎲 Bot_3 rolled doubles! Taking another turn.
+[Turn 161] Bot_3 landed on Pacific Avenue.
+[Turn 162] Bot_1 landed on Ventnor Avenue.
+[Turn 163] Bot_2 landed on Baltic Avenue.
+[Turn 164] Bot_3 landed on Park Place.
+[Turn 165] Bot_1 landed on Luxury Tax.
+[Turn 166] Bot_2 landed on St. Charles Place.
+[Turn 167] Bot_3 landed on Baltic Avenue.
+[Turn 168] Bot_1 landed on Oriental Avenue.
+[Turn 169] Bot_2 landed on Pennsylvania Railroad.
+[Turn 170] Bot_3 landed on Reading Railroad.
+[Turn 170] 🎲 Bot_3 rolled doubles! Taking another turn.
+[Turn 170] Bot_3 landed on Electric Company.
+[Turn 171] Bot_1 landed on Connecticut Avenue.
+[Turn 172] Bot_2 landed on Free Parking.
+[Turn 173] ✅ Built a House on Vermont Avenue for $50.
+[Turn 173] ✅ Built a House on Connecticut Avenue for $50.
+[Turn 173] ✅ Built a Hotel on Connecticut Avenue for $50.
+[Turn 173] Bot_3 landed on Tennessee Avenue.
+[Turn 174] Bot_1 landed on Tennessee Avenue.
+[Turn 175] Bot_2 landed on Water Works.
+[Turn 176] Bot_3 landed on Atlantic Avenue.
+[Turn 177] Bot_1 landed on Chance.
+[Turn 177] 🃏 Bot_1 drew a card: Make general repairs on all your property. For each house pay $25, for each hotel pay $100
+[Turn 178] Bot_2 landed on Pennsylvania Avenue.
+[Turn 178] ✅ Bot_2 bought Pennsylvania Avenue for $320.
+[Turn 178] 🎲 Bot_2 rolled doubles! Taking another turn.
+[Turn 178] Bot_2 landed on Park Place.
+[Turn 178] 🎲 Bot_2 rolled doubles! Taking another turn.
+[Turn 178] Bot_2 landed on Chance.
+[Turn 178] 🃏 Bot_2 drew a card: You have been elected Chairman of the Board. Pay each player $50
+[Turn 179] ✅ Built a Hotel on Oriental Avenue for $50.
+[Turn 179] Bot_3 landed on Community Chest.
+[Turn 179] 🃏 Bot_3 drew a card: From sale of stock you get $50
+[Turn 180] 🤝 TRADE: Bot_1 bought Pennsylvania Avenue from Bot_2 for $800 to complete a Monopoly!
+[Turn 180] Bot_1 landed on Ventnor Avenue.
+[Turn 181] Bot_2 landed on Electric Company.
+[Turn 182] ✅ Built a Hotel on Vermont Avenue for $50.
+[Turn 182] Bot_3 landed on Income Tax.
+[Turn 183] Bot_1 landed on Pennsylvania Avenue.
+[Turn 184] Bot_2 landed on New York Avenue.
+[Turn 185] Bot_3 landed on Pennsylvania Railroad.
+[Turn 186] Bot_1 landed on Mediterranean Avenue.
+[Turn 187] Bot_2 landed on Water Works.
+[Turn 188] Bot_3 landed on Ventnor Avenue.
+[Turn 188] 🎲 Bot_3 rolled doubles! Taking another turn.
+[Turn 188] Bot_3 landed on Community Chest.
+[Turn 188] 🃏 Bot_3 drew a card: Holiday fund matures. Receive $100
+[Turn 189] Bot_1 landed on Vermont Avenue.
+[Turn 190] Bot_2 landed on Pacific Avenue.
+[Turn 191] ✅ Built a House on Kentucky Avenue for $150.
+[Turn 191] ✅ Built a House on Indiana Avenue for $150.
+[Turn 191] ✅ Built a House on Illinois Avenue for $150.
+[Turn 191] ✅ Built a House on Illinois Avenue for $150.
+[Turn 191] Bot_3 landed on Community Chest.
+[Turn 191] 🃏 Bot_3 drew a card: Advance to Go (Collect $200)
+[Turn 192] Bot_1 landed on St. Charles Place.
+[Turn 193] Bot_2 landed on Boardwalk.
+[Turn 193] ✅ Bot_2 bought Boardwalk for $400.
+[Turn 194] ✅ Built a House on Kentucky Avenue for $150.
+[Turn 194] ✅ Built a House on Indiana Avenue for $150.
+[Turn 194] Bot_3 landed on St. Charles Place.
+[Turn 194] 🚨 Bot_3 is in debt for $750!
+[Turn 194] 🏚️ Bot_3 ✅ Sold a Hotel on Oriental Avenue for $25.
+[Turn 194] 🏚️ Bot_3 ✅ Sold a Hotel on Vermont Avenue for $25.
+[Turn 194] 🏚️ Bot_3 ✅ Sold a Hotel on Connecticut Avenue for $25.
+[Turn 194] 🏚️ Bot_3 ✅ Sold a House on Oriental Avenue for $25.
+[Turn 194] 🏚️ Bot_3 ✅ Sold a House on Vermont Avenue for $25.
+[Turn 194] 🏚️ Bot_3 ✅ Sold a House on Connecticut Avenue for $25.
+[Turn 194] Bot_3 paid $750.
+[Turn 195] ✅ Built a House on Pacific Avenue for $200.
+[Turn 195] Bot_1 landed on Pennsylvania Railroad.
+[Turn 195] 🎲 Bot_1 rolled doubles! Taking another turn.
+[Turn 195] Bot_1 landed on Kentucky Avenue.
+[Turn 196] ✅ Built a House on Park Place for $200.
+[Turn 196] ✅ Built a House on Boardwalk for $200.
+[Turn 196] ✅ Built a House on Boardwalk for $200.
+[Turn 196] Bot_2 landed on Income Tax.
+[Turn 197] Bot_3 landed on Kentucky Avenue.
+[Turn 197] 🎲 Bot_3 rolled doubles! Taking another turn.
+[Turn 197] Bot_3 landed on Water Works.
+[Turn 198] Bot_1 landed on North Carolina Avenue.
+[Turn 199] ✅ Built a House on Park Place for $200.
+[Turn 199] ✅ Built a House on Park Place for $200.
+[Turn 199] Bot_2 landed on St. James Place.
+[Turn 199] 🎲 Bot_2 rolled doubles! Taking another turn.
+[Turn 199] Bot_2 landed on Indiana Avenue.
+[Turn 200] Bot_3 landed on Park Place.
+[Turn 200] 🚨 Bot_3 is in debt for $1100!
+[Turn 200] 🏚️ Bot_3 ✅ Sold a House on Oriental Avenue for $25.
+[Turn 200] 🏚️ Bot_3 ✅ Sold a House on Vermont Avenue for $25.
+[Turn 200] 🏚️ Bot_3 ✅ Sold a House on Connecticut Avenue for $25.
+[Turn 200] 🏚️ Bot_3 ✅ Sold a House on Oriental Avenue for $25.
+[Turn 200] 🏚️ Bot_3 ✅ Sold a House on Vermont Avenue for $25.
+[Turn 200] 🏚️ Bot_3 ✅ Sold a House on Connecticut Avenue for $25.
+[Turn 200] 🏚️ Bot_3 ✅ Sold a House on Oriental Avenue for $25.
+[Turn 200] 🏚️ Bot_3 ✅ Sold a House on Vermont Avenue for $25.
+[Turn 200] 🏚️ Bot_3 ✅ Sold a House on Connecticut Avenue for $25.
+[Turn 200] 🏚️ Bot_3 ✅ Sold a House on Kentucky Avenue for $75.
+[Turn 200] 🏚️ Bot_3 ✅ Sold a House on Indiana Avenue for $75.
+[Turn 200] 🏚️ Bot_3 ✅ Sold a House on Illinois Avenue for $75.
+[Turn 200] 🏚️ Bot_3 ✅ Sold a House on Kentucky Avenue for $75.
+[Turn 200] 🏚️ Bot_3 ✅ Sold a House on Indiana Avenue for $75.
+[Turn 200] 🏚️ Bot_3 ✅ Sold a House on Illinois Avenue for $75.
+[Turn 200] Bot_3 paid $1100.
+[Turn 200] 🎲 Bot_3 rolled doubles! Taking another turn.
+[Turn 200] Bot_3 landed on Chance.
+[Turn 200] 🃏 Bot_3 drew a card: Go to Jail. Go directly to Jail, do not pass Go, do not collect $200
+[Turn 201] Bot_1 landed on Park Place.
+[Turn 201] 🚨 Bot_1 is in debt for $1100!
+[Turn 201] 🏚️ Bot_1 ✅ Sold a Hotel on St. Charles Place for $50.
+[Turn 201] 🏚️ Bot_1 ✅ Sold a Hotel on States Avenue for $50.
+[Turn 201] 🏚️ Bot_1 ✅ Sold a Hotel on Virginia Avenue for $50.
+[Turn 201] 🏚️ Bot_1 ✅ Sold a House on St. Charles Place for $50.
+[Turn 201] 🏚️ Bot_1 ✅ Sold a House on States Avenue for $50.
+[Turn 201] 🏚️ Bot_1 ✅ Sold a House on Virginia Avenue for $50.
+[Turn 201] 🏚️ Bot_1 ✅ Sold a House on St. Charles Place for $50.
+[Turn 201] 🏚️ Bot_1 ✅ Sold a House on States Avenue for $50.
+[Turn 201] 🏚️ Bot_1 ✅ Sold a House on Virginia Avenue for $50.
+[Turn 201] 🏚️ Bot_1 ✅ Sold a House on St. Charles Place for $50.
+[Turn 201] 🏚️ Bot_1 ✅ Sold a House on States Avenue for $50.
+[Turn 201] 🏚️ Bot_1 ✅ Sold a House on Virginia Avenue for $50.
+[Turn 201] 🏚️ Bot_1 ✅ Sold a House on St. Charles Place for $50.
+[Turn 201] 🏚️ Bot_1 ✅ Sold a House on States Avenue for $50.
+[Turn 201] 🏚️ Bot_1 ✅ Sold a House on Virginia Avenue for $50.
+[Turn 201] Bot_1 paid $1100.
+[Turn 202] ✅ Built a House on Boardwalk for $200.
+[Turn 202] ✅ Built a House on Boardwalk for $200.
+[Turn 202] Bot_2 landed on Water Works.
+[Turn 203] 🎲 Bot_3 is in jail and failed to roll doubles (4, 1).
+[Turn 204] Bot_1 landed on Baltic Avenue.
+[Turn 204] 🚨 Bot_1 is in debt for $450!
+[Turn 204] 🏚️ Bot_1 ✅ Sold a House on Pacific Avenue for $100.
+[Turn 204] 🏦 Bot_1 mortgaged St. Charles Place to raise funds.
+[Turn 204] 🏦 Bot_1 mortgaged States Avenue to raise funds.
+[Turn 204] Bot_1 paid $450.
+[Turn 205] ✅ Built a House on Park Place for $200.
+[Turn 205] ✅ Built a Hotel on Park Place for $200.
+[Turn 205] ✅ Built a Hotel on Boardwalk for $200.
+[Turn 205] Bot_2 landed on Go To Jail.
+[Turn 205] 🎲 Bot_2 rolled doubles! Taking another turn.
+[Turn 205] 🎲 Bot_2 is in jail and failed to roll doubles (2, 6).
+[Turn 206] 🎲 Bot_3 is in jail and failed to roll doubles (4, 5).
+[Turn 207] Bot_1 landed on St. Charles Place.
+[Turn 208] 🎲 Bot_2 is in jail and failed to roll doubles (6, 3).
+[Turn 209] 💰 Bot_3 paid $50 mandatory bail and is out of jail.
+[Turn 209] Bot_3 landed on Pennsylvania Railroad.
+[Turn 210] Bot_1 landed on Free Parking.
+[Turn 211] 🎲 Bot_2 rolled doubles (1, 1) to escape jail!
+[Turn 211] Bot_2 landed on Electric Company.
+[Turn 212] Bot_3 landed on B. & O. Railroad.
+[Turn 213] Bot_1 landed on Pacific Avenue.
+[Turn 214] Bot_2 landed on St. James Place.
+[Turn 215] Bot_3 landed on Water Works.
+[Turn 216] Bot_1 landed on Pennsylvania Avenue.
+[Turn 217] Bot_2 landed on B. & O. Railroad.
+[Turn 218] Bot_3 landed on Short Line.
+[Turn 218] 🚨 Bot_3 is in debt for $50!
+[Turn 218] 🏦 Bot_3 mortgaged Oriental Avenue to raise funds.
+[Turn 218] Bot_3 paid $50.
+[Turn 219] Bot_1 landed on Community Chest.
+[Turn 219] 🃏 Bot_1 drew a card: Doctor's fee. Pay $50
+[Turn 219] 🎲 Bot_1 rolled doubles! Taking another turn.
+[Turn 219] Bot_1 landed on St. Charles Place.
+[Turn 220] Bot_2 landed on Water Works.
+[Turn 221] Bot_3 landed on Boardwalk.
+[Turn 221] 💥 💥 Bot_3 went bankrupt to Bot_2! Buildings liquidated and assets transferred.
+[Turn 222] Bot_1 landed on Free Parking.
+[Turn 223] 🤝 TRADE: Bot_2 bought Ventnor Avenue from Bot_1 for $650 to complete a Monopoly!
+[Turn 223] ✅ Built a House on Kentucky Avenue for $150.
+[Turn 223] ✅ Built a House on Indiana Avenue for $150.
+[Turn 223] ✅ Built a House on Illinois Avenue for $150.
+[Turn 223] ✅ Built a House on Illinois Avenue for $150.
+[Turn 223] ✅ Built a House on Atlantic Avenue for $150.
+[Turn 223] Bot_2 landed on Go To Jail.
+[Turn 223] 🎲 Bot_2 rolled doubles! Taking another turn.
+[Turn 223] 🎲 Bot_2 is in jail and failed to roll doubles (1, 4).
+[Turn 224] ✅ Built a House on Pacific Avenue for $200.
+[Turn 224] ✅ Built a House on North Carolina Avenue for $200.
+[Turn 224] Bot_1 landed on Water Works.
+[Turn 224] 🎲 Bot_1 rolled doubles! Taking another turn.
+[Turn 224] Bot_1 landed on Pennsylvania Avenue.
+[Turn 225] ✅ Built a House on Kentucky Avenue for $150.
+[Turn 225] 🎲 Bot_2 rolled doubles (4, 4) to escape jail!
+[Turn 225] Bot_2 landed on Tennessee Avenue.
+[Turn 226] Bot_1 landed on Income Tax.
+[Turn 227] Bot_2 landed on Ventnor Avenue.
+[Turn 228] Bot_1 landed on Vermont Avenue.
+[Turn 229] Bot_2 landed on Go To Jail.
+[Turn 230] Bot_1 landed on New York Avenue.
+[Turn 231] 🎲 Bot_2 is in jail and failed to roll doubles (1, 2).
+[Turn 232] Bot_1 landed on Ventnor Avenue.
+[Turn 232] 🎲 Bot_1 rolled doubles! Taking another turn.
+[Turn 232] Bot_1 landed on Marvin Gardens.
+[Turn 232] 🎲 Bot_1 rolled doubles! Taking another turn.
+[Turn 232] 🚨 Bot_1 went to jail for speeding (3 doubles).
+[Turn 233] 🎲 Bot_2 is in jail and failed to roll doubles (4, 1).
+[Turn 234] 🎲 Bot_1 is in jail and failed to roll doubles (6, 1).
+[Turn 235] 💰 Bot_2 paid $50 mandatory bail and is out of jail.
+[Turn 235] Bot_2 landed on St. James Place.
+[Turn 236] 🎲 Bot_1 is in jail and failed to roll doubles (6, 4).
+[Turn 237] Bot_2 landed on Indiana Avenue.
+[Turn 238] 💰 Bot_1 paid $50 mandatory bail and is out of jail.
+[Turn 238] Bot_1 landed on States Avenue.
+[Turn 239] Bot_2 landed on Ventnor Avenue.
+[Turn 240] Bot_1 landed on Community Chest.
+[Turn 240] 🃏 Bot_1 drew a card: It is your birthday. Collect $10 from every player
+[Turn 241] Bot_2 landed on Short Line.
+[Turn 242] Bot_1 landed on Free Parking.
+[Turn 243] Bot_2 landed on Park Place.
+[Turn 244] Bot_1 landed on Ventnor Avenue.
+[Turn 245] Bot_2 landed on Vermont Avenue.
+[Turn 246] Bot_1 landed on Pennsylvania Avenue.
+[Turn 247] ✅ Built a House on Indiana Avenue for $150.
+[Turn 247] Bot_2 landed on St. James Place.
+[Turn 248] Bot_1 landed on Boardwalk.
+[Turn 248] 💥 💥 Bot_1 went bankrupt to Bot_2! Buildings liquidated and assets transferred.
+[Turn 248] 🎉 Bot_2 WINS THE GAME! 🎉
+[Turn 248] Exporting final snapshot and logs.

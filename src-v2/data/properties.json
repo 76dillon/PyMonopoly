@@ -1,0 +1,220 @@
+{
+  "Mediterranean Avenue": {
+    "type": "street",
+    "group": "Brown",
+    "price": 60,
+    "rent": [2, 10, 30, 90, 160, 250],
+    "house_cost": 50,
+    "mortgage_value": 30
+  },
+  "Baltic Avenue": {
+    "type": "street",
+    "group": "Brown",
+    "price": 60,
+    "rent": [4, 20, 60, 180, 320, 450],
+    "house_cost": 50,
+    "mortgage_value": 30
+  },
+  "Reading Railroad": {
+    "type": "railroad",
+    "group": "Railroad",
+    "price": 200,
+    "rent": [25, 50, 100, 200],
+    "mortgage_value": 100
+  },
+  "Oriental Avenue": {
+    "type": "street",
+    "group": "Light Blue",
+    "price": 100,
+    "rent": [6, 30, 90, 270, 400, 550],
+    "house_cost": 50,
+    "mortgage_value": 50
+  },
+  "Vermont Avenue": {
+    "type": "street",
+    "group": "Light Blue",
+    "price": 100,
+    "rent": [6, 30, 90, 270, 400, 550],
+    "house_cost": 50,
+    "mortgage_value": 50
+  },
+  "Connecticut Avenue": {
+    "type": "street",
+    "group": "Light Blue",
+    "price": 120,
+    "rent": [8, 40, 100, 300, 450, 600],
+    "house_cost": 50,
+    "mortgage_value": 60
+  },
+  "St. Charles Place": {
+    "type": "street",
+    "group": "Pink",
+    "price": 140,
+    "rent": [10, 50, 150, 450, 625, 750],
+    "house_cost": 100,
+    "mortgage_value": 70
+  },
+  "Electric Company": {
+    "type": "utility",
+    "group": "Utility",
+    "price": 150,
+    "rent_multipliers": [4, 10],
+    "mortgage_value": 75
+  },
+  "States Avenue": {
+    "type": "street",
+    "group": "Pink",
+    "price": 140,
+    "rent": [10, 50, 150, 450, 625, 750],
+    "house_cost": 100,
+    "mortgage_value": 70
+  },
+  "Virginia Avenue": {
+    "type": "street",
+    "group": "Pink",
+    "price": 160,
+    "rent": [12, 60, 180, 500, 700, 900],
+    "house_cost": 100,
+    "mortgage_value": 80
+  },
+  "Pennsylvania Railroad": {
+    "type": "railroad",
+    "group": "Railroad",
+    "price": 200,
+    "rent": [25, 50, 100, 200],
+    "mortgage_value": 100
+  },
+  "St. James Place": {
+    "type": "street",
+    "group": "Orange",
+    "price": 180,
+    "rent": [14, 70, 200, 550, 750, 950],
+    "house_cost": 100,
+    "mortgage_value": 90
+  },
+  "Tennessee Avenue": {
+    "type": "street",
+    "group": "Orange",
+    "price": 180,
+    "rent": [14, 70, 200, 550, 750, 950],
+    "house_cost": 100,
+    "mortgage_value": 90
+  },
+  "New York Avenue": {
+    "type": "street",
+    "group": "Orange",
+    "price": 200,
+    "rent": [16, 80, 220, 600, 800, 1000],
+    "house_cost": 100,
+    "mortgage_value": 100
+  },
+  "Kentucky Avenue": {
+    "type": "street",
+    "group": "Red",
+    "price": 220,
+    "rent": [18, 90, 250, 700, 875, 1050],
+    "house_cost": 150,
+    "mortgage_value": 110
+  },
+  "Indiana Avenue": {
+    "type": "street",
+    "group": "Red",
+    "price": 220,
+    "rent": [18, 90, 250, 700, 875, 1050],
+    "house_cost": 150,
+    "mortgage_value": 110
+  },
+  "Illinois Avenue": {
+    "type": "street",
+    "group": "Red",
+    "price": 240,
+    "rent": [20, 100, 300, 750, 925, 1100],
+    "house_cost": 150,
+    "mortgage_value": 120
+  },
+  "B. & O. Railroad": {
+    "type": "railroad",
+    "group": "Railroad",
+    "price": 200,
+    "rent": [25, 50, 100, 200],
+    "mortgage_value": 100
+  },
+  "Atlantic Avenue": {
+    "type": "street",
+    "group": "Yellow",
+    "price": 260,
+    "rent": [22, 110, 330, 800, 975, 1150],
+    "house_cost": 150,
+    "mortgage_value": 130
+  },
+  "Ventnor Avenue": {
+    "type": "street",
+    "group": "Yellow",
+    "price": 260,
+    "rent": [22, 110, 330, 800, 975, 1150],
+    "house_cost": 150,
+    "mortgage_value": 130
+  },
+  "Water Works": {
+    "type": "utility",
+    "group": "Utility",
+    "price": 150,
+    "rent_multipliers": [4, 10],
+    "mortgage_value": 75
+  },
+  "Marvin Gardens": {
+    "type": "street",
+    "group": "Yellow",
+    "price": 280,
+    "rent": [24, 120, 360, 850, 1025, 1200],
+    "house_cost": 150,
+    "mortgage_value": 140
+  },
+  "Pacific Avenue": {
+    "type": "street",
+    "group": "Green",
+    "price": 300,
+    "rent": [26, 130, 390, 900, 1100, 1275],
+    "house_cost": 200,
+    "mortgage_value": 150
+  },
+  "North Carolina Avenue": {
+    "type": "street",
+    "group": "Green",
+    "price": 300,
+    "rent": [26, 130, 390, 900, 1100, 1275],
+    "house_cost": 200,
+    "mortgage_value": 150
+  },
+  "Pennsylvania Avenue": {
+    "type": "street",
+    "group": "Green",
+    "price": 320,
+    "rent": [28, 150, 450, 1000, 1200, 1400],
+    "house_cost": 200,
+    "mortgage_value": 160
+  },
+  "Short Line": {
+    "type": "railroad",
+    "group": "Railroad",
+    "price": 200,
+    "rent": [25, 50, 100, 200],
+    "mortgage_value": 100
+  },
+  "Park Place": {
+    "type": "street",
+    "group": "Dark Blue",
+    "price": 350,
+    "rent": [35, 175, 500, 1100, 1300, 1500],
+    "house_cost": 200,
+    "mortgage_value": 175
+  },
+  "Boardwalk": {
+    "type": "street",
+    "group": "Dark Blue",
+    "price": 400,
+    "rent": [50, 200, 600, 1400, 1700, 2000],
+    "house_cost": 200,
+    "mortgage_value": 200
+  }
+}

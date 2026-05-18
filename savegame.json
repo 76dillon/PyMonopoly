@@ -1,0 +1,37 @@
+{
+    "current_player": "Pee",
+    "consecutive_doubles": 0,
+    "has_rolled": false,
+    "can_roll": true,
+    "players": [
+        {
+            "name": "Poop",
+            "token": "",
+            "balance": 1400,
+            "position": 10,
+            "is_in_jail": false,
+            "jail_turns": 0,
+            "chance_goojf_cards": 0,
+            "community_chest_goojf_cards": 0,
+            "is_bankrupt": false
+        },
+        {
+            "name": "Pee",
+            "token": "",
+            "balance": 1500,
+            "position": 0,
+            "is_in_jail": false,
+            "jail_turns": 0,
+            "chance_goojf_cards": 0,
+            "community_chest_goojf_cards": 0,
+            "is_bankrupt": false
+        }
+    ],
+    "properties": {
+        "Oriental Avenue": {
+            "owner": "Poop",
+            "houses": 0,
+            "mortgaged": false
+        }
+    }
+}
